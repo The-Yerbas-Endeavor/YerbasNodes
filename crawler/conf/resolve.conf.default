@@ -1,0 +1,16 @@
+[resolve]
+
+# Logfile
+logfile = log/resolve.79657262.log
+
+# Network magic number
+magic_number = 79657262
+
+# Redis database number
+db = 0
+
+# Print debug output
+debug = False
+
+# Redis TTL for cached hostname and GeoIP data
+ttl = 86400
